@@ -7,6 +7,8 @@ It allows users to:
 * Edit existing tasks
 * Delete tasks
 
+![App Demo](./demo.gif)
+
 ---
 
 ## 🚀 Project Structure
